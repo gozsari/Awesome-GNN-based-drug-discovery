@@ -3,7 +3,7 @@ This is a curated list of resources and tools related to using Graph Neural Netw
 
 This repository aims to provide an overview of the latest developments in GNN-based drug discovery, including:
 
-- **Research papers:** A selection of recent papers on GNNs for molecular property prediction, ligand-based virtual screening, and other drug discovery tasks.
+- ** [Research papers:](Research_papers)** A selection of recent papers on GNNs for molecular property prediction, ligand-based virtual screening, and other drug discovery tasks.
 
 - **Datasets:** Collections of molecular data suitable for training and evaluating GNN models, such as the MoleculeNet benchmark dataset.
 
