@@ -12,3 +12,5 @@
 * Website: https://antoniolonga.github.io/Advanced_PyG_tutorials/index.html
 * YouTube Playlist: https://www.youtube.com/watch?v=DOFM2e_o5lU&list=PLGMXrbDNfqTwPxitLVHEbT9Pd6-oR_cud
 * GitHub Repo: https://github.com/AntonioLonga/AdvancePyTorchGeometricTutorials
+
+### 4- Graph Neural Networks (ESE 5140)
