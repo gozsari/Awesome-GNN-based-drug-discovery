@@ -17,7 +17,7 @@
 * Website: https://gnn.seas.upenn.edu/
 * Lectures: https://gnn.seas.upenn.edu/lectures/
 
-### 5- Basics og Graph Neural Networks
+### 5- Basics of Graph Neural Networks
 * Website: https://www.graphneuralnets.com/p/basics-of-gnns
 
 
