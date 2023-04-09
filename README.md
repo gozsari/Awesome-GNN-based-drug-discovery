@@ -6,9 +6,6 @@
 ![contributions-welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-![GitHub stars](https://img.shields.io/github/stars/gozsari/Awesome-GNN-based-drug-discovery?style=social)
-![GitHub forks](https://img.shields.io/github/forks/gozsari/Awesome-GNN-based-drug-discovery?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/gozsari/Awesome-GNN-based-drug-discovery?style=social)
 
 This is a curated list of resources and tools related to using Graph Neural Networks (GNNs) for drug discovery. GNNs are a powerful class of machine learning models that can operate on graph-structured data, which makes them especially well-suited for analyzing molecules and molecular interactions.
 
