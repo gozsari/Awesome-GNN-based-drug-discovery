@@ -14,3 +14,5 @@
 * GitHub Repo: https://github.com/AntonioLonga/AdvancePyTorchGeometricTutorials
 
 ### 4- Graph Neural Networks (ESE 5140)
+* Website: https://gnn.seas.upenn.edu/
+* Lectures: https://gnn.seas.upenn.edu/lectures/
