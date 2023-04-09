@@ -16,3 +16,8 @@
 ### 4- Graph Neural Networks (ESE 5140)
 * Website: https://gnn.seas.upenn.edu/
 * Lectures: https://gnn.seas.upenn.edu/lectures/
+
+### 5- Basics og Graph Neural Networks
+* Website: https://www.graphneuralnets.com/p/basics-of-gnns
+
+
