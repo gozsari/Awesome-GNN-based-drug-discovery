@@ -45,3 +45,30 @@
 * Documentation: https://diveintographs.readthedocs.io/en/latest/
 * Tutorial: https://diveintographs.readthedocs.io/en/latest/tutorial.html
 
+## Drug Discovery tools, software and libraries (GNN)
+
+### 1- DeepChem
+* DeepChem is a Python library for deep learning in life sciences. It provides a suite of tools for the development of novel deep learning models for drug discovery, materials science, quantum chemistry, and biology.
+* GitHub: https://github.com/deepchem/deepchem
+
+### 2- TorchDrug
+* TorchDrug is a deep learning toolkit for drug discovery, built on top of PyTorch.
+* Website: https://torchdrug.ai/
+* GitHub: https://github.com/DeepGraphLearning/torchdrug/
+
+### 3- DataMol
+* datamol.io is an open-source toolkit that simplifies molecular processing and featurization workflows for ML scientists in drug discovery.
+* Website: https://datamol.io/
+* GitHub: https://github.com/datamol-io/datamol
+
+### 4- Chemprop
+* Chemprop is a Python library for training and evaluating graph neural networks for molecular property prediction, built on top of PyTorch.
+* GitHub: https://github.com/chemprop/chemprop
+
+### 5- MoleculeNet
+* MoleculeNet is a benchmark for molecular machine learning, consisting of 12 datasets with 11 different tasks.
+* Website: http://moleculenet.org/
+
+
+
+
