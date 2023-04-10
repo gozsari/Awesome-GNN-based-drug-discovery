@@ -56,25 +56,30 @@
 * DeepChem is a Python library for deep learning in life sciences. It provides a suite of tools for the development of novel deep learning models for drug discovery, materials science, quantum chemistry, and biology.
 * GitHub: https://github.com/deepchem/deepchem
 
-### 2- TorchDrug
+### 2- RDKit
+* RDKit is a collection of cheminformatics and machine-learning software written in C++ and Python.
+* Website: https://www.rdkit.org/
+* GitHub: https://github.com/rdkit/rdkit
+
+### 3- TorchDrug
 * TorchDrug is a deep learning toolkit for drug discovery, built on top of PyTorch.
 * Website: https://torchdrug.ai/
 * GitHub: https://github.com/DeepGraphLearning/torchdrug/
 
-### 3- DataMol
+### 4- DataMol
 * datamol.io is an open-source toolkit that simplifies molecular processing and featurization workflows for ML scientists in drug discovery.
 * Website: https://datamol.io/
 * GitHub: https://github.com/datamol-io/datamol
 
-### 4- Chemprop
+### 5- Chemprop
 * Chemprop is a Python library for training and evaluating graph neural networks for molecular property prediction, built on top of PyTorch.
 * GitHub: https://github.com/chemprop/chemprop
 
-### 5- MoleculeNet
+### 6- MoleculeNet
 * MoleculeNet is a benchmark for molecular machine learning, consisting of 12 datasets with 11 different tasks.
 * Website: http://moleculenet.org/
 
-### 6- Open Graph Benchmark (OGB)
+### 7- Open Graph Benchmark (OGB)
 * OGB is a benchmark for graph machine learning, consisting of 10 datasets with 8 different tasks.
 * Website: https://ogb.stanford.edu/
 * GitHub: https://github.com/snap-stanford/ogb
