@@ -1,3 +1,5 @@
+![Drug Discovery Banner](assets/banner.png)
+
 # Awesome-GNN-based-drug-discovery
 
 ![awesome](https://img.shields.io/badge/awesome-awesome%20repo-brightgreen)
