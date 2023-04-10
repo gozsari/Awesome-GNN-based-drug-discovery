@@ -49,6 +49,10 @@
 * GraphGym is a platform for designing and evaluating Graph Neural Networks (GNN). 
 * GitHub: https://github.com/snap-stanford/GraphGym
 
+### 11- OpenHGNN
+* OpenHGNN is a toolkit for heterogeneous graph neural networks (HGNNs) that provides a unified interface for various HGNN models and heterogeneous graph learning tasks, built on top of PyTorch and DGL.
+* GitHub: https://github.com/BUPT-GAMMA/OpenHGNN
+
 
 ## Drug Discovery tools, software and libraries (GNN)
 
@@ -83,5 +87,12 @@
 * OGB is a benchmark for graph machine learning, consisting of 10 datasets with 8 different tasks.
 * Website: https://ogb.stanford.edu/
 * GitHub: https://github.com/snap-stanford/ogb
+
+### 8- Chemical Representation Learning for Toxicity Prediction
+* A collection of datasets and models for toxicity prediction, built on top of PyTorch.
+* GitHub: https://github.com/PaccMann/chemical_representation_learning_for_toxicity_prediction
+* Paper: https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00099g
+
+
 
 
