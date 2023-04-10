@@ -1,3 +1,4 @@
+
 ## Denovo drug design
 * [Graph neural networks for conditional de novo drug design](https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1651)
 ```
@@ -12,13 +13,10 @@ Xiong, J., Xiong, Z., Chen, K., Jiang, H., & Zheng, M. (2021). Graph neural netw
 
 ## Drug-target interaction/binding affinity prediction
 
-## Drug-drug interaction prediction (Poly-pharmacology side-effect prediction)
+## Drug-drug interaction prediction 
 
 ## Molecular property prediction
 
-## Protein-protein interaction prediction
-
-## Protein function prediction
 
 
 
