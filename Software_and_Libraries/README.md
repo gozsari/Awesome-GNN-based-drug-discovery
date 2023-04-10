@@ -45,6 +45,11 @@
 * Documentation: https://diveintographs.readthedocs.io/en/latest/
 * Tutorial: https://diveintographs.readthedocs.io/en/latest/tutorial.html
 
+### 10- GraphGym
+* GraphGym is a platform for designing and evaluating Graph Neural Networks (GNN). 
+* GitHub: https://github.com/snap-stanford/GraphGym
+
+
 ## Drug Discovery tools, software and libraries (GNN)
 
 ### 1- DeepChem
@@ -69,6 +74,10 @@
 * MoleculeNet is a benchmark for molecular machine learning, consisting of 12 datasets with 11 different tasks.
 * Website: http://moleculenet.org/
 
+### 6- Open Graph Benchmark (OGB)
+* OGB is a benchmark for graph machine learning, consisting of 10 datasets with 8 different tasks.
+* Website: https://ogb.stanford.edu/
+* GitHub: https://github.com/snap-stanford/ogb
 
 
 
