@@ -20,4 +20,6 @@
 ### 5- Basics of Graph Neural Networks
 * Website: https://www.graphneuralnets.com/p/basics-of-gnns
 
-
+### 6- AAAI 2021 Tutorial on Artificial Intelligence for Drug Discovery**:
+   - Website: [AAAI 2021 Tutorial](https://deepgraphlearning.github.io/DrugTutorial_AAAI2021/)
+   - This tutorial focuses on AI techniques for drug discovery, including molecular property prediction, de novo molecular design and optimization, retrosynthesis reaction and prediction, drug repurposing, and combination. The tutorial is a comprehensive introduction to key problems and AI technique advancements in drug discovery.
