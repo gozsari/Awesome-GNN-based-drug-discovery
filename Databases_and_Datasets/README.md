@@ -10,10 +10,6 @@
    - **Link**: [ChEMBL](https://www.ebi.ac.uk/chembl/)
    - **Description**: A manually curated database of bioactive molecules with drug-like properties. It provides information on compound bioactivity, targets, and pharmacological data, useful for GNN models that predict drug-target interactions and drug efficacy.
 
-**QikProp**
-   - **Link**: [QikProp](https://www.schrodinger.com/products/qikprop)
-   - **Description**: A dataset used for predicting physically significant descriptors and pharmaceutically relevant properties of organic molecules. It's particularly useful for absorption, distribution, metabolism, excretion, and toxicity (ADMET) studies.
-
 **PDBbind**
    - **Link**: [PDBbind](http://www.pdbbind.org.cn/)
    - **Description**: A comprehensive collection of the binding affinities of proteins and ligands. It's a crucial resource for developing models that predict protein-ligand interactions.
