@@ -1,3 +1,7 @@
+**Open Graph Benchmark (OGB)**
+   - **Link**: [OGB](https://ogb.stanford.edu/)
+   - **Description**: A collection of benchmark datasets, data loaders, and evaluators for graph machine learning. It includes specific datasets for drug discovery tasks like molecular property prediction and protein-protein interaction networks. The OGB datasets are particularly designed to standardize and facilitate graph research, providing diverse, large-scale, and challenging datasets that are useful for developing and benchmarking GNN models in drug discovery.
+
 **ZINC Database**
    - **Link**: [ZINC Database](https://zinc.docking.org/)
    - **Description**: A free database of commercially available compounds for virtual screening. It contains over 35 million compounds and is widely used for drug discovery projects, particularly in tasks like molecular generation and optimization.
