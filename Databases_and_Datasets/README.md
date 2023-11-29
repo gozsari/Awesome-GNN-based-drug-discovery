@@ -29,3 +29,39 @@
 **Tox21**
    - **Link**: [Tox21](https://tripod.nih.gov/tox21/challenge/)
    - **Description**: A dataset from the Toxicology in the 21st Century initiative, containing data on the toxicity of compounds, which is essential for ADMET studies.
+
+**Human Metabolome Database (HMDB)**
+   - **Link**: [HMDB](http://www.hmdb.ca/)
+   - **Description**: Provides comprehensive information on human metabolites and their roles in metabolism. Useful for understanding drug metabolism and pharmacokinetics in GNN models.
+
+**Genomics of Drug Sensitivity in Cancer (GDSC)**
+   - **Link**: [GDSC](https://www.cancerrxgene.org/)
+   - **Description**: Offers a rich dataset of drug responses in cancer cell lines, including genetic, molecular, and pharmacological data. Ideal for GNNs focusing on cancer therapeutics and personalized medicine.
+
+**Therapeutic Target Database (TTD)**
+   - **Link**: [TTD](http://db.idrblab.net/ttd/)
+   - **Description**: Provides information about known and explored therapeutic protein and nucleic acid targets, the targeted disease, pathway information, and the corresponding drugs directed at each of these targets.
+
+**SureChEMBL**
+   - **Link**: [SureChEMBL](https://www.surechembl.org/)
+   - **Description**: Contains chemical information extracted from the patent literature, useful for novel chemical entity discovery and GNN models focusing on intellectual property in drug design.
+
+**Protein Data Bank (PDB)**
+   - **Link**: [PDB](https://www.rcsb.org/)
+   - **Description**: A global repository of information about the 3D structures of large biological molecules, including proteins and nucleic acids. Essential for protein structure prediction and ligand docking studies.
+
+**Connectivity Map (CMap)**
+   - **Link**: [CMap](https://clue.io/)
+   - **Description**: Provides gene expression profiles in response to various chemical and genetic perturbations, aiding in understanding drug mechanisms of action and potential off-target effects.
+
+ **ChemSpider**
+   - **Link**: [ChemSpider](http://www.chemspider.com/)
+   - **Description**: A free chemical structure database providing fast access to over 100 million structures, properties, and associated information. Useful for sourcing chemical compounds and property data.
+
+**STITCH**
+   - **Link**: [STITCH](http://stitch.embl.de/)
+   - **Description**: Integrates information about interactions between chemicals and proteins, including metabolic and signaling pathways, chemicals, and drugs. It's valuable for studying drug-protein interaction networks.
+
+**LINCS L1000**
+   - **Link**: [LINCS L1000](http://www.lincsproject.org/LINCS/)
+   - **Description**: Provides gene expression signatures in response to a variety of drug and genetic perturbations, facilitating the understanding of compound mechanisms of action.
