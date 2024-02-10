@@ -8,13 +8,13 @@
 
 ### **PyTorch Geometric Tutorials**
 - **PyTorch Geometric Tutorials**
-  - Start with PyTorch Geometric through detailed tutorials. [Website](https://antoniolonga.github.io/Pytorch_geometric_tutorials/index.html) | [YouTube](https://www.youtube.com/watch?v=JtDgmmQ60x8&list=PLGMXrbDNfqTzqxB1IGgimuhtfAhGd8lHF) | [GitHub](https://github.com/AntonioLonga/PytorchGeometricTutorial)
+  - Start with PyTorch Geometric through detailed tutorials. [Website](https://antoniolonga.github.io/Pytorch_geometric_tutorials/index.html) , [YouTube](https://www.youtube.com/watch?v=JtDgmmQ60x8&list=PLGMXrbDNfqTzqxB1IGgimuhtfAhGd8lHF) , [GitHub](https://github.com/AntonioLonga/PytorchGeometricTutorial)
 - **Advanced PyTorch Geometric Tutorial**
-  - Dive deeper into PyTorch Geometric with advanced topics. [Website](https://antoniolonga.github.io/Advanced_PyG_tutorials/index.html) | [YouTube](https://www.youtube.com/watch?v=DOFM2e_o5lU&list=PLGMXrbDNfqTwPxitLVHEbT9Pd6-oR_cud) | [GitHub](https://github.com/AntonioLonga/AdvancePyTorchGeometricTutorials)
+  - Dive deeper into PyTorch Geometric with advanced topics. [Website](https://antoniolonga.github.io/Advanced_PyG_tutorials/index.html) , [YouTube](https://www.youtube.com/watch?v=DOFM2e_o5lU&list=PLGMXrbDNfqTwPxitLVHEbT9Pd6-oR_cud) , [GitHub](https://github.com/AntonioLonga/AdvancePyTorchGeometricTutorials)
 
 ### **University Lectures**
 - **Graph Neural Networks (ESE 5140)**
-  - Comprehensive lecture series on GNNs. [Website](https://gnn.seas.upenn.edu/) | [Lectures](https://gnn.seas.upenn.edu/lectures/)
+  - Comprehensive lecture series on GNNs. [Website](https://gnn.seas.upenn.edu/) , [Lectures](https://gnn.seas.upenn.edu/lectures/)
 - **Basics of Graph Neural Networks**
   - A primer on the fundamentals of GNNs. [Website](https://www.graphneuralnets.com/p/basics-of-gnns)
 
@@ -28,9 +28,7 @@
 
 - **A Practical Tutorial on Graph Neural Networks**
    - [Paper](https://arxiv.org/abs/2010.05234) 
-   - 
-
+   
 - **Graph Neural Networks tutorials on notebooks**
    - [GitHub](https://github.com/SeongokRyu/Graph-neural-networks/tree/master/tutorials)
    - Teaches how to implement GNN convolutions in tensorflow.
-   

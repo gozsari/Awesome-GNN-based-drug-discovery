@@ -9,7 +9,7 @@
 2. **Molecular contrastive learning of representations via graph neural networks**
     - **By:** Wang, Y. et al., 2022
     - **Journal:** Nature Machine Intelligence
-    - **Read:** [Access the study](https://www.nature.com/articles/s42256-022-00447-x#data-availability) | [Github](https://github.com/yuyangw/MolCLR)
+    - **Read:** [Access the study](https://www.nature.com/articles/s42256-022-00447-x#data-availability) , [Github](https://github.com/yuyangw/MolCLR)
 
 3. **Review Study: Application of message passing neural networks for molecular property prediction**
     - **By:** Tang, M. et al., 2023
@@ -24,4 +24,4 @@
 5. **Analyzing Learned Molecular Representations for Property Prediction**
     - **By:** Yang, K. et al., 2019
     - **Journal:** Journal of Chemical Information and Modeling
-    - **Read:** [Access the study](https://pubs.acs.org/doi/full/10.1021/acs.jcim.9b00237) | [Github](https://github.com/chemprop/chemprop)
+    - **Read:** [Access the study](https://pubs.acs.org/doi/full/10.1021/acs.jcim.9b00237) , [Github](https://github.com/chemprop/chemprop)
