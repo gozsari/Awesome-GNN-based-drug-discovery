@@ -1,7 +1,25 @@
+## Graph Machine Learning Resources for Drug Discovery
+
+Explore a curated collection of databases and resources tailored for graph machine learning applications in drug discovery. These resources offer comprehensive datasets, tools, and benchmarks to propel your research in understanding complex biological systems and advancing therapeutic innovations.
+
 **Open Graph Benchmark (OGB)**
    - **Link**: [OGB](https://ogb.stanford.edu/)
    - **Description**: A collection of benchmark datasets, data loaders, and evaluators for graph machine learning. It includes specific datasets for drug discovery tasks like molecular property prediction and protein-protein interaction networks. The OGB datasets are particularly designed to standardize and facilitate graph research, providing diverse, large-scale, and challenging datasets that are useful for developing and benchmarking GNN models in drug discovery.
 
+**Hetionet**
+   - **Link**: [Hetionet](https://neo4j.het.io/browser/)
+   - **Description**: A hetnet (heterogeneous network) of relationships between different types of entities, including diseases, genes, compounds, and pathways. It's a valuable resource for studying drug repurposing and drug-disease associations using GNNs.
+
+**Graph4Med**
+   - **Link**: [Graph4Med](http://graph4med.cs.uni-frankfurt.de), [Github](https://github.com/jeschaef/Graph4Med)
+   - **Description**: t Graph4Med, a web application that relies on a Neo4J graph database obtained by transforming a traditional relational database. Graph4Med provides a straightforward visualization and analysis of a selected patient cohort. 
+
+**CROssBAR:** Comprehensive Resource of Biomedical Relations with Deep Learning Applications and Knowledge Graph Representations
+   - **Link**: [CROssBAR](https://crossbar.kansil.org/)
+
+   - **Description**:
+   CROssBAR is a comprehensive system that integrates large-scale biomedical data from various resources and store it in a new NoSQL database, enrich this data with deep learning based prediction of relations between numerous biomedical entities, rigorously analyse the enriched data to obtain biologically meaningful modules and display them to the user via easy to interpret, interactive and heterogenous knowledge graphs within an open access, user-friendly and online web-service.
+   
 **ZINC Database**
    - **Link**: [ZINC Database](https://zinc.docking.org/)
    - **Description**: A free database of commercially available compounds for virtual screening. It contains over 35 million compounds and is widely used for drug discovery projects, particularly in tasks like molecular generation and optimization.

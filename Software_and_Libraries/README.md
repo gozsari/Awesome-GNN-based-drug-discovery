@@ -93,6 +93,11 @@
 * GitHub: https://github.com/PaccMann/chemical_representation_learning_for_toxicity_prediction
 * Paper: https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00099g
 
+### 9- BioCypher
+* A unified framework for creating biomedical knowledge graphs.
+* Website: https://biocypher.org/
+* GitHub: https://github.com/biocypher
+* Paper: https://www.nature.com/articles/s41587-023-01848-y
 
 
 
