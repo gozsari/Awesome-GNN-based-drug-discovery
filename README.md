@@ -34,13 +34,13 @@ The goal of this repository is to provide a comprehensive starting point for res
 
 ## How to Contribute
 
-We encourage contributions from the community! If you have suggestions for resources, tools, or anything else that could be added to this list, please follow these steps:
+I encourage contributions from the community! If you have suggestions for resources, tools, or anything else that could be added to this list, please follow these steps:
 
 1. **Fork the repository**: Click the fork button on the top right of this page to create your own copy of this repository.
 2. **Make your changes**: Add your suggested resources, fix typos, or make other improvements.
 3. **Submit a pull request**: Once you're happy with your changes, submit a pull request to merge your changes into the main repository. Please provide a brief explanation of what you've added or changed.
 
-We appreciate your contributions and look forward to growing this resource together!
+I appreciate your contributions and look forward to growing this resource together!
 
 ## License
 
