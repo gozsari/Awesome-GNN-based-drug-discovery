@@ -53,9 +53,7 @@ Delve into the forefront of pharmaceutical innovation with this curated selectio
     - **Source:** arXiv preprint  
     - **Read:** [Access the study](https://arxiv.org/pdf/2302.07868v5.pdf) | [Github](https://github.com/hubiodatalab/druggen)
 
-11. **GeoLDM: Geometric
-
- Latent Diffusion Models for 3D Molecule Generation**  
+11. **GeoLDM: Geometric Latent Diffusion Models for 3D Molecule Generation**  
     - **By:** Xu, M. et al., 2023  
     - **Source:** In International Conference on Machine Learning  
     - **Read:** [Access the study](https://arxiv.org/pdf/2305.01140v1.pdf) | [Github](https://github.com/minkaixu/geoldm)
@@ -65,4 +63,3 @@ Delve into the forefront of pharmaceutical innovation with this curated selectio
     - **Source:** arXiv preprint  
     - **Read:** [Access the study](https://arxiv.org/pdf/2302.04313v5.pdf) | [Github](https://github.com/bioinfomachinelearning/bio-diffusion)
 
-This compilation of studies offers a window into the innovative methodologies and technologies shaping the future of drug discovery.
