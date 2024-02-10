@@ -8,7 +8,7 @@ Dive into the wealth of knowledge with these handpicked awesome lists, each a tr
 
 - **[Awesome Self-Supervised Learning for Graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs):** Curated insights into self-supervised learning within graph domains.
 
--**[Awesome Graph Self-Supervised Learning](https://github.com/LirongWu/awesome-graph-self-supervised-learning):** A curated list for awesome self-supervised graph representation learning resources.
+- **[Awesome Graph Self-Supervised Learning](https://github.com/LirongWu/awesome-graph-self-supervised-learning):** A curated list for awesome self-supervised graph representation learning resources.
 
 - **[Awesome-self-supervised-gnn](https://github.com/ChandlerBang/awesome-self-supervised-gnn):** Papers about pretraining and self-supervised learning on Graph Neural Networks (GNN).
 
