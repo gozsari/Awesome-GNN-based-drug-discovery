@@ -8,6 +8,9 @@
 - **Spektral**
   - TensorFlow/Keras library for graph deep learning. [GitHub](https://github.com/danielegrattarola/spektral) | [Tutorial](https://graphneural.network/)
 
+- **TensorFlow-GNN**
+  - TensorFlow library for graph neural networks. [GitHub](https://github.com/tensorflow/gnn) | [Paper:TF-GNN: Graph Neural Networks in TensorFlow](https://arxiv.org/abs/2207.03522)
+
 ### **Specialized GNN Tools**
 - **Graph Nets by DeepMind**
   - TensorFlow library for building graph networks. [GitHub](https://github.com/deepmind/graph_nets)
