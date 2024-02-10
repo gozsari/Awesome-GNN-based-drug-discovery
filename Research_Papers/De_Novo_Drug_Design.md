@@ -44,7 +44,20 @@ Isert, C., Atz, K., & Schneider, G. (2023). Structure-based drug design with geo
 Ranjan, A., Shukla, S., Datta, D., & Misra, R. (2022). Generating novel molecule for target protein (SARS-CoV-2) using drug–target interaction based on graph neural network. Network Modeling Analysis in Health Informatics and Bioinformatics, 11, 1-11.
 ```
 
-* []()
+* [Target Specific De Novo Design of Drug Candidate Molecules with Graph Transformer-based Generative Adversarial Networks](https://arxiv.org/pdf/2302.07868v5.pdf)
+  - [Github](https://github.com/hubiodatalab/druggen)
 ``` 
+Ünlü, A., Çevrim, E., Sarıgün, A., Çelikbilek, H., Güvenilir, H. A., Koyaş, A., ... & Olğaç, A. (2023). Target Specific De Novo Design of Drug Candidate Molecules with Graph Transformer-based Generative Adversarial Networks. arXiv preprint arXiv:2302.07868.
+```
 
+* [GeoLDM: Geometric Latent Diffusion Models for 3D Molecule Generation](https://arxiv.org/pdf/2305.01140v1.pdf)
+  - [Github](https://github.com/minkaixu/geoldm)
+```
+Xu, M., Powers, A. S., Dror, R. O., Ermon, S., & Leskovec, J. (2023, July). Geometric latent diffusion models for 3d molecule generation. In International Conference on Machine Learning (pp. 38592-38610). PMLR.
+```
+
+* [Geometry-Complete Diffusion for 3D Molecule Generation and Optimization](https://arxiv.org/pdf/2302.04313v5.pdf)
+  - [Github](https://github.com/bioinfomachinelearning/bio-diffusion)
+```
+Morehead, A., & Cheng, J. (2023). Geometry-complete diffusion for 3d molecule generation. arXiv preprint arXiv:2302.04313.
 ```
