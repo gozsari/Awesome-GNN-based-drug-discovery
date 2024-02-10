@@ -5,13 +5,19 @@ Dive into the wealth of knowledge with these handpicked awesome lists, each a tr
 ### **Graph Neural Networks (GNNs)**
 
 - **[Awesome-Graph-Neural-Networks](https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks):** Your directory to scholarly papers on GNNs.
+
 - **[Awesome Self-Supervised Learning for Graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs):** Curated insights into self-supervised learning within graph domains.
+
 -**[Awesome Graph Self-Supervised Learning](https://github.com/LirongWu/awesome-graph-self-supervised-learning):** A curated list for awesome self-supervised graph representation learning resources.
+
 - **[Awesome-self-supervised-gnn](https://github.com/ChandlerBang/awesome-self-supervised-gnn):** Papers about pretraining and self-supervised learning on Graph Neural Networks (GNN).
 
 - **[Awesome-Graph-Embedding](https://github.com/daicoolb/Awesome-Graph-Embedding):** A compendium of Graph Embedding techniques.
+
 - **[Awesome gnns on large-scale graphs](https://github.com/Oceanusity/awesome-gnns-on-large-scale-graphs):** Focused discussions and studies on GNN application in large-scale graph environments.
+
 - **[Awesome Deep Graph Representation Learning](https://github.com/zlpure/awesome-graph-representation-learning):** A curated list dedicated to the art and science of graph representation learning.
+
 - **[Awesome Imbalanced Learning on Graphs](https://github.com/yanliang3612/awesome-imbalanced-learning-on-graphs):** A collection addressing the challenges of imbalanced learning on graphs.
 
 - **[Knowledge-graph-learning](https://github.com/BrambleXu/knowledge-graph-learning):** Your ultimate guide to knowledge graph tutorials, projects, and communities.
@@ -21,9 +27,6 @@ Dive into the wealth of knowledge with these handpicked awesome lists, each a tr
 - **[Awesome Deep Graph Clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering):** Awesome Deep Graph Clustering is a collection of SOTA, novel deep graph clustering methods (papers, codes, and datasets).
 
 - **[Awesome-Deep-Graph-Anomaly-Detection](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection):** Awesome graph anomaly detection techniques built based on deep learning frameworks. Collections of commonly used datasets, papers as well as implementations are listed in this github repository. 
-
-
-
 
 ### **Drug Discovery**
 
