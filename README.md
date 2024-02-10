@@ -22,6 +22,7 @@ This is a curated list of resources and tools related to using Graph Neural Netw
 This repository aims to provide an overview of the latest developments in GNN-based drug discovery, including:
 </p>
 
+- **[Awesome-list:](Awesome-lists)** Awesome list for GNNs and drug discovery enthusiasts, including scholarly papers, datasets, tutorials, and software.
 - **[Research papers:](Research_Papers)** A selection of recent papers on GNNs for molecular property prediction, ligand-based virtual screening, and other drug discovery tasks.
 - **[Databases and Datasets:](Databases_and_Datasets)** Collections of molecular data suitable for training and evaluating GNN models, such as the MoleculeNet benchmark dataset.
 - **[Software and libraries:](Software_and_Libraries)** Tools for building and training GNN models for drug discovery, including popular libraries like PyTorch Geometric, DeepChem, and RDKit.
