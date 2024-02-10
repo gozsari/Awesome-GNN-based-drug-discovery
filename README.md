@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Drug Discovery Banner" href="https://gozsari.github.io/Awesome-GNN-based-drug-discovery/">
+  <img src="assets/banner.png" alt="Drug Discovery Banner">
 </p>
 
 <h1 align="center">Awesome-GNN-based-drug-discovery</h1>
