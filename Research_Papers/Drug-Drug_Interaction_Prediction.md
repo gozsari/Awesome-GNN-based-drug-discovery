@@ -1,51 +1,49 @@
-## Drug-drug interaction prediction 
+### Drug-Drug Interaction Prediction
+---
+Dive into the latest advances in predicting drug-drug interactions, a crucial aspect of pharmaceutical research, through this collection of studies employing cutting-edge graph neural networks and deep learning methodologies.
 
-* [Modeling polypharmacy side effects with graph convolutional networks](https://academic.oup.com/bioinformatics/article/34/13/i457/5045770)
-```
-Zitnik, M., Agrawal, M., & Leskovec, J. (2018). Modeling polypharmacy side effects with graph convolutional networks. Bioinformatics, 34(13), i457-i466.
-```
+1. **Modeling Polypharmacy Side Effects with Graph Convolutional Networks**  
+   - **By:** Zitnik, M. et al., 2018  
+   - **Journal:** Bioinformatics  
+   - **Read:** [Access the study](https://academic.oup.com/bioinformatics/article/34/13/i457/5045770)
 
-* [DeepDrug: A general graph-based deep learning framework for drug-drug interactions and drug-target interactions prediction](https://www.biorxiv.org/content/10.1101/2020.11.09.375626v2.abstract)
-``` 
-Yin, Q., Cao, X., Fan, R., Liu, Q., Jiang, R., & Zeng, W. (2020). DeepDrug: A general graph-based deep learning framework for drug-drug interactions and drug-target interactions prediction. bioRxiv, 2020-11.
-```
+2. **DeepDrug: A General Graph-Based Deep Learning Framework for Drug-Drug Interactions and Drug-Target Interactions Prediction**  
+   - **By:** Yin, Q. et al., 2020  
+   - **Source:** bioRxiv  
+   - **Read:** [Access the study](https://www.biorxiv.org/content/10.1101/2020.11.09.375626v2.abstract)
 
-* [KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction](https://xuanlin1991.github.io/files/publications/ijcai20.pdf)
-``` 
-Lin, X., Quan, Z., Wang, Z. J., Ma, T., & Zeng, X. (2020, July). KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction. In IJCAI (Vol. 380, pp. 2739-2745).
-```
+3. **KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction**  
+   - **By:** Lin, X. et al., 2020  
+   - **Conference:** IJCAI  
+   - **Read:** [Access the study](https://xuanlin1991.github.io/files/publications/ijcai20.pdf)
 
-* [DeepDDS: deep graph neural network with attention mechanism to predict synergistic drug combinations](https://academic.oup.com/bib/article/23/1/bbab390/6375262)
-``` 
-Wang, J., Liu, X., Shen, S., Deng, L., & Liu, H. (2022). DeepDDS: deep graph neural network with attention mechanism to predict synergistic drug combinations. Briefings in Bioinformatics, 23(1), bbab390.
-```
+4. **DeepDDS: Deep Graph Neural Network with Attention Mechanism to Predict Synergistic Drug Combinations**  
+   - **By:** Wang, J. et al., 2022  
+   - **Journal:** Briefings in Bioinformatics  
+   - **Read:** [Access the study](https://academic.oup.com/bib/article/23/1/bbab390/6375262)
 
-* [A dual graph neural network for drug–drug interactions prediction based on molecular structure and interactions](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010812)
-``` 
-Ma, M., & Lei, X. (2023). A dual graph neural network for drug–drug interactions prediction based on molecular structure and interactions. PLOS Computational Biology, 19(1), e1010812.
-```
+5. **A Dual Graph Neural Network for Drug-Drug Interactions Prediction Based on Molecular Structure and Interactions**  
+   - **By:** Ma, M. & Lei, X., 2023  
+   - **Journal:** PLOS Computational Biology  
+   - **Read:** [Access the study](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010812)
 
-* [Prediction of drug-drug interaction events using graph neural networks based feature extraction](https://www.nature.com/articles/s41598-022-19999-4)
-``` 
-Al-Rabeah, M. H., & Lakizadeh, A. (2022). Prediction of drug-drug interaction events using graph neural networks based feature extraction. Scientific Reports, 12(1), 15590.
-```
+6. **Prediction of Drug-Drug Interaction Events Using Graph Neural Networks Based Feature Extraction**  
+   - **By:** Al-Rabeah, M. H. & Lakizadeh, A., 2022  
+   - **Journal:** Scientific Reports  
+   - **Read:** [Access the study](https://www.nature.com/articles/s41598-022-19999-4)
 
-* [A biomedical knowledge graph-based method for drug–drug interactions prediction through combining local and global features with deep neural networks](https://academic.oup.com/bib/article/23/5/bbac363/6692550)
-``` 
-Ren, Z. H., You, Z. H., Yu, C. Q., Li, L. P., Guan, Y. J., Guo, L. X., & Pan, J. (2022). A biomedical knowledge graph-based method for drug–drug interactions prediction through combining local and global features with deep neural networks. Briefings in Bioinformatics, 23(5), bbac363.
-```
+7. **A Biomedical Knowledge Graph-Based Method for Drug-Drug Interactions Prediction Through Combining Local and Global Features with Deep Neural Networks**  
+   - **By:** Ren, Z. H. et al., 2022  
+   - **Journal:** Briefings in Bioinformatics  
+   - **Read:** [Access the study](https://academic.oup.com/bib/article/23/5/bbac363/6692550)
 
-* [Learning size-adaptive molecular substructures for explainable drug–drug interaction prediction by substructure-aware graph neural network](https://pubs.rsc.org/en/content/articlehtml/2022/sc/d2sc02023h)
-``` 
-Yang, Z., Zhong, W., Lv, Q., & Chen, C. Y. C. (2022). Learning size-adaptive molecular substructures for explainable drug–drug interaction prediction by substructure-aware graph neural network. Chemical science, 13(29), 8693-8703.
-```
+8. **Learning Size-Adaptive Molecular Substructures for Explainable Drug-Drug Interaction Prediction by Substructure-Aware Graph Neural Network**  
+   - **By:** Yang, Z. et al., 2022  
+   - **Journal:** Chemical Science  
+   - **Read:** [Access the study](https://pubs.rsc.org/en/content/articlehtml/2022/sc/d2sc02023h)
 
-* [Enhancing Drug-Drug Interaction Prediction Using Deep Attention Neural Networks](https://ieeexplore.ieee.org/abstract/document/9769862)
-``` 
-Liu, S., Zhang, Y., Cui, Y., Qiu, Y., Deng, Y., Zhang, Z., & Zhang, W. (2022). Enhancing drug-drug interaction prediction using deep attention neural networks. IEEE/ACM transactions on computational biology and Bioinformatics, 20(2), 976-985.
-```
+9. **Enhancing Drug-Drug Interaction Prediction Using Deep Attention Neural Networks**  
+   - **By:** Liu, S. et al., 2022  
+   - **Journal:** IEEE/ACM Transactions on Computational Biology and Bioinformatics  
+   - **Read:** [Access the study](https://ieeexplore.ieee.org/abstract/document/9769862)
 
-* []()
-``` 
-
-```

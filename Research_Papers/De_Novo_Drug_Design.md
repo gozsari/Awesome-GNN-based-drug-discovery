@@ -1,4 +1,4 @@
-### **De Novo Drug Design: Pioneering Research Highlights**
+### De Novo Drug Design
 ---
 
 Delve into the forefront of pharmaceutical innovation with this curated selection of groundbreaking studies in De Novo Drug Design, showcasing advanced computational techniques and neural network applications.
