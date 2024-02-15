@@ -1,0 +1,18 @@
+# Project information
+project:
+  name: Awesome-GNN-based-drug-discovery
+  version: latest
+  language: python
+
+# Build configuration
+build:
+  image: latest
+  configuration: .readthedocs.yml
+
+# Documentation configuration
+docs:
+  version: latest
+  format: markdown
+  source_dir: docs
+  build_dir: _build
+
