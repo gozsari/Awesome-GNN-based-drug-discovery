@@ -1,3 +1,4 @@
+version: 2
 # Project information
 project:
   name: Awesome-GNN-based-drug-discovery
@@ -6,6 +7,7 @@ project:
 
 # Build configuration
 build:
+  os: macos
   image: latest
   configuration: .readthedocs.yml
 
@@ -13,6 +15,11 @@ build:
 docs:
   version: latest
   format: markdown
-  source_dir: docs
+  source_dir: .
   build_dir: _build
+
+# Define submodules if your repository includes any
+submodules:
+  include: all
+  recursive: true
 
