@@ -25,3 +25,23 @@
     - **By:** Yang, K. et al., 2019
     - **Journal:** Journal of Chemical Information and Modeling
     - **Read:** [Access the study](https://pubs.acs.org/doi/full/10.1021/acs.jcim.9b00237) , [Github](https://github.com/chemprop/chemprop)
+
+6. **MD-GNN: A mechanism-data-driven graph neural network for molecular properties prediction and new material discovery**
+    - **By:** Chen, S. et al., 2023
+    - **Journal:** Elsevier, Journal of Molecular Graphics and Modelling
+    - **Read:** [Access the study](https://www.sciencedirect.com/science/article/pii/S1093326323001043)
+
+7. **Equivariant Graph Neural Networks for Toxicity Prediction**
+    - **By:** Cremer, J. et al., 2023
+    - **Journal:** Chemical Research in Toxicology - American Chemical Society
+    - **Read:** [Access the study](https://pubs.acs.org/doi/full/10.1021/acs.chemrestox.3c00032) , [Github](https://github.com/jule-c/ET-Tox)
+
+8. **Combining Group-Contribution Concept and Graph Neural Networks Toward Interpretable Molecular Property Models**
+    - **By:** Aouichaoui, A. et al., 2023
+    - **Journal:** Journal of Chemical Information and Modeling - American Chemical Society
+    - **Read:** [Access the study](https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c01091), [Github](https://github.com/gsi-lab/GC-GNN)
+
+9. **Chemistry-intuitive explanation of graph neural networks for molecular property prediction with substructure masking**
+    - **By:** Wu, Zhenxing. et al., 2023
+    - **Journal:** Nature Communications
+    - **Read:** [Access the study](https://www.nature.com/articles/s41467-023-38192-3) , [Code](https://zenodo.org/records/7707093) 
