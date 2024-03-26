@@ -42,13 +42,13 @@ Dive into the wealth of knowledge with these handpicked awesome lists, each a tr
 
 - **[Awesome Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme):** A curated list of Cheminformatics libraries and software.
 
-**[awesome-small-molecule-ml](https://github.com/benb111/awesome-small-molecule-ml):** A curated list of resources for machine learning for small-molecule drug discovery.
+- **[Awesome-small-molecule-ml](https://github.com/benb111/awesome-small-molecule-ml):** A curated list of resources for machine learning for small-molecule drug discovery.
 
-- **[awesome-pretrain-on-molecules](https://github.com/junxia97/awesome-pretrain-on-molecules):**A curated list of resources for chemical pre-trained models.
+- **[Awesome-pretrain-on-molecules](https://github.com/junxia97/awesome-pretrain-on-molecules):** A curated list of resources for chemical pre-trained models.
 
-- **[awesome-explainable-graph-reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning?tab=readme-ov-file):**A collection of research papers and software related to explainability in graph machine learning.
+- **[Awesome-explainable-graph-reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning?tab=readme-ov-file):** A collection of research papers and software related to explainability in graph machine learning.
 
-- **[awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry):**A curated list of Python packages related to chemistry.
+- **[Awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) :** A curated list of Python packages related to chemistry.
 
 ### **Special Interest**
 
