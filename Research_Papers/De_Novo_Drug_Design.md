@@ -63,3 +63,12 @@ Delve into the forefront of pharmaceutical innovation with this curated selectio
     - **Source:** arXiv preprint  
     - **Read:** [Access the study](https://arxiv.org/pdf/2302.04313v5.pdf) , [Github](https://github.com/bioinfomachinelearning/bio-diffusion)
 
+13. **ScaffoldGVAE: scaffold generation and hopping of drug molecules via a variational autoencoder based on multi-view graph neural networks**  
+    - **By:** Hu, C. et al., 2023  
+    - **Source:** Journal of Cheminformatics
+    - **Read:** [Access the study](hhttps://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00766-0) , [Github](https://github.com/ecust-hc/ScaffoldGVAE)
+
+14. **De novo drug design by iterative multiobjective deep reinforcement learning with graph-based molecular quality assessment**  
+    - **By:** Fang, Y. et al., 2023  
+    - **Source:** Bioinformatics - Oxford Academic
+    - **Read:** [Access the study](https://academic.oup.com/bioinformatics/article/39/4/btad157/7085596) , [Github](https://github.com/yifang000/QADD)
