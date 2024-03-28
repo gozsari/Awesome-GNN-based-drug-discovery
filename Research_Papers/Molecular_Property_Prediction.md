@@ -45,3 +45,20 @@
     - **By:** Wu, Zhenxing. et al., 2023
     - **Journal:** Nature Communications
     - **Read:** [Access the study](https://www.nature.com/articles/s41467-023-38192-3) , [Code](https://zenodo.org/records/7707093) 
+
+10. **ASGN: An active semi-supervised graph neural network for molecular property prediction**
+    - **By:** Hao, Z. et al., 2020
+    - **Conference:** KDD '20: Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining
+    - **Read:** [Access the study](https://dl.acm.org/doi/abs/10.1145/3394486.3403117)
+
+11. **XGraphBoost: Extracting Graph Neural Network-Based Features for a Better Prediction of Molecular Properties**
+    - **By:** Deng, D. et al., 2021
+    - **Journal:** Journal of Chemical Information and Modeling - American Chemical Society
+    - **Read:** [Access the study](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c01489), [Github](https://github.com/chenxiaowei-vincent/XGraphBoost)
+
+12. **Advanced graph and sequence neural networks for molecular property prediction and drug discovery**
+    - **By:** Wang, Z. et al., 2022
+    - **Journal:** Bioinformatics - Oxford Academic
+    - **Read:** [Access the study](https://academic.oup.com/bioinformatics/article/38/9/2579/6531963), [Github](https://github.com/divelab/MoleculeX)
+
+
