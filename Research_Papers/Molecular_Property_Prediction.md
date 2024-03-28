@@ -61,4 +61,22 @@
     - **Journal:** Bioinformatics - Oxford Academic
     - **Read:** [Access the study](https://academic.oup.com/bioinformatics/article/38/9/2579/6531963), [Github](https://github.com/divelab/MoleculeX)
 
+13. **Heterogeneous Molecular Graph Neural Networks for Predicting Molecule Properties**
+    - **By:** Shui, Z. et al., 2020
+    - **Conference:** IEEE International Conference on Data Mining (ICDM)
+    - **Read:** [Access the study](https://ieeexplore.ieee.org/xpl/conhome/9338245/proceeding)
 
+14. **HiGNN: A Hierarchical Informative Graph Neural Network for Molecular Property Prediction Equipped with Feature-Wise Attention**
+    - **By:** Zhu, W. et al., 2023
+    - **Journal:** Journal of Chemical Information and Modeling - American Chemical Society
+    - **Read:** [Access the study](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.2c01099), [Github](https://github.com/idruglab/hignn)
+
+15. **Quantitative evaluation of explainable graph neural networks for molecular property prediction**
+    - **By:** Rao, J. et al., 2022
+    - **Journal:** Patterns - Cell Press
+    - **Read:** [Access the study](https://www.cell.com/patterns/pdf/S2666-3899(22)00260-4.pdf), [Github](https://github.com/biomed-AI/MolRep)
+
+16. **Cross-dependent graph neural networks for molecular property prediction**
+    - **By:** Ma, H. et al., 2022
+    - **Journal:** Bioinformatics - Oxford Academic
+    - **Read:** [Access the study](https://academic.oup.com/bioinformatics/article/38/7/2003/6517516), [Github](https://github.com/uta-smile/CD-MVGNN)
