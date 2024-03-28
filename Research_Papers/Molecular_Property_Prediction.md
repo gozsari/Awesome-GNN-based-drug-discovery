@@ -80,3 +80,25 @@
     - **By:** Ma, H. et al., 2022
     - **Journal:** Bioinformatics - Oxford Academic
     - **Read:** [Access the study](https://academic.oup.com/bioinformatics/article/38/7/2003/6517516), [Github](https://github.com/uta-smile/CD-MVGNN)
+
+17. **Few-Shot Graph Learning for Molecular Property Prediction**
+    - **By:** Guo, Z. et al., 2021
+    - **Conference:** WWW '21: Proceedings of the Web Conference 2021
+    - **Read:** [Access the study](https://dl.acm.org/doi/abs/10.1145/3442381.3450112), [Github](https://github.com/zhichunguo/Meta-MGNN)
+
+18. **GraSeq: Graph and Sequence Fusion Learning for Molecular Property Prediction**
+    - **By:** Guo, Z. et al., 2020
+    - **Conference:** CIKM '20: Proceedings of the 29th ACM International Conference on Information & Knowledge Management
+    - **Read:** [Access the study](https://dl.acm.org/doi/abs/10.1145/3340531.3411981)
+
+19. **Motif-based Graph Self-Supervised Learning for Molecular Property Prediction**
+    - **By:** ZHANG, Z. et al., 2021
+    - **Conference:** Advances in Neural Information Processing Systems 34 (NeurIPS 2021)
+    - **Read:** [Access the study](https://proceedings.neurips.cc/paper/2021/hash/85267d349a5e647ff0a9edcb5ffd1e02-Abstract.html)
+
+20. **Molecular Geometry Prediction using a Deep Generative Graph Neural Network**
+    - **By:** Mansimov, E. et al., 2019
+    - **Journal:** Scientific Reports - Nature
+    - **Read:** [Access the study](https://www.nature.com/articles/s41598-019-56773-5), [Github](https://github.com/nyu-dl/dl4chem-geometry)
+
+
