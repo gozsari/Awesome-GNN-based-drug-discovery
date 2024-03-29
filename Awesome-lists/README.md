@@ -28,6 +28,8 @@ Dive into the wealth of knowledge with these handpicked awesome lists, each a tr
 
 - **[Awesome-Deep-Graph-Anomaly-Detection](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection):** Awesome graph anomaly detection techniques built based on deep learning frameworks. Collections of commonly used datasets, papers as well as implementations are listed in this github repository. 
 
+- **[Literature of Deep Learning for Graphs](https://github.com/DeepGraphLearning/LiteratureDL4Graph):** This is a paper list about deep learning for graphs.
+
 ### **Drug Discovery**
 
 - **[Awesome-drug-discovery-knowledge-graphs](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs):** A rich repository accompanying the paper on biomedical datasets from a knowledge graph perspective.
@@ -49,6 +51,8 @@ Dive into the wealth of knowledge with these handpicked awesome lists, each a tr
 - **[Awesome-explainable-graph-reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning?tab=readme-ov-file):** A collection of research papers and software related to explainability in graph machine learning.
 
 - **[Awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) :** A curated list of Python packages related to chemistry.
+
+- **[Deep Learning for Graphs in Chemistry and Biology](https://github.com/mufeili/DL4MolecularGraph):** This is a paper list of deep learning on graphs in chemistry and biology from ML community, chemistry community and biology community.
 
 ### **Special Interest**
 
