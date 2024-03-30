@@ -62,3 +62,18 @@ Uncover the advancements in drug-target interaction and binding affinity predict
     - **Journal:** Computers in Biology and Medicine  
     - **Read:** [Access the study](https://www.sciencedirect.com/science/article/pii/S0010482523006017)
 
+13. **Metapath-aggregated heterogeneous graph neural network for drug–target interaction prediction**  
+    - **By:** Li, M. et al., 2023
+    - **Journal:** Briefings in Bioinformatics  
+    - **Read:** [Access the study](https://academic.oup.com/bib/article/24/1/bbac578/6966534), [Github](https://github.com/Zora-LM/MHGNN-DTI)
+
+14. **Effective prediction of drug – target interaction on HIV using deep graph neural networks**
+      - **By:** Das, Bihter, et al., 2022
+      - **Journal:** Chemometrics and Intelligent Laboratory Systems
+      - **Read:** [Access the study](https://www.sciencedirect.com/science/article/pii/S0169743921003365)
+
+15. **iNGNN-DTI: prediction of drug–target interaction with interpretable nested graph neural network and pretrained molecule models**
+      - **By:** Sun, Y. et al., 2024
+      - **Journal:** Bioinformatics - Oxford Academic
+      - **Read:** [Access the study](https://academic.oup.com/bioinformatics/article/40/3/btae135/7623585), [Github](https://github.com/syan1992/iNGNN-DTI).
+
