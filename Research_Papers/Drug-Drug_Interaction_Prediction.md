@@ -29,7 +29,7 @@ Dive into the latest advances in predicting drug-drug interactions, a crucial as
 
 6. **Prediction of Drug-Drug Interaction Events Using Graph Neural Networks Based Feature Extraction**  
    - **By:** Al-Rabeah, M. H. & Lakizadeh, A., 2022  
-   - **Journal:** Scientific Reports  
+   - **Journal:** Scientific Reports - Nature
    - **Read:** [Access the study](https://www.nature.com/articles/s41598-022-19999-4)
 
 7. **A Biomedical Knowledge Graph-Based Method for Drug-Drug Interactions Prediction Through Combining Local and Global Features with Deep Neural Networks**  
@@ -52,4 +52,8 @@ Dive into the latest advances in predicting drug-drug interactions, a crucial as
    - **Journal:**  Life, MDPI
    - **Read:** [Access the study](https://www.mdpi.com/2075-1729/12/2/319), [Github](https://github.com/AshleyHan/SmileGNN)
 
+11. ****
+   - **By:** 
+   - **Journal:** 
+   - **Read:** [Access the study]()
 
