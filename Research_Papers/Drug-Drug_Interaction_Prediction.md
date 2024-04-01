@@ -52,8 +52,10 @@ Dive into the latest advances in predicting drug-drug interactions, a crucial as
    - **Journal:**  Life, MDPI
    - **Read:** [Access the study](https://www.mdpi.com/2075-1729/12/2/319), [Github](https://github.com/AshleyHan/SmileGNN)
 
-11. ****
-   - **By:** 
-   - **Journal:** 
-   - **Read:** [Access the study]()
+11. **3DGT-DDI: 3D graph and text based neural network for drug–drug interaction prediction**
+   - **By:** He, H. et al., 2022
+   - **Journal:** Briefings in Bioinformatics - Oxford Academic
+   - **Read:** [Access the study](https://academic.oup.com/bib/article/23/3/bbac134/6576451), [Github](https://github.com/hehh77/3DGT-DDI)
+
+
 
