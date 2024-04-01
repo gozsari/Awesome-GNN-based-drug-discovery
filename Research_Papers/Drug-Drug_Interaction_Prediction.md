@@ -47,3 +47,9 @@ Dive into the latest advances in predicting drug-drug interactions, a crucial as
    - **Journal:** IEEE/ACM Transactions on Computational Biology and Bioinformatics  
    - **Read:** [Access the study](https://ieeexplore.ieee.org/abstract/document/9769862)
 
+10. **SmileGNN: Drug–Drug Interaction Prediction Based on the SMILES and Graph Neural Network**
+   - **By:** Han, X. et al., 2022 
+   - **Journal:**  Life, MDPI
+   - **Read:** [Access the study](https://www.mdpi.com/2075-1729/12/2/319), [Github](https://github.com/AshleyHan/SmileGNN)
+
+
