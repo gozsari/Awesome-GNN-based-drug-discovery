@@ -57,5 +57,10 @@ Dive into the latest advances in predicting drug-drug interactions, a crucial as
    - **Journal:** Briefings in Bioinformatics - Oxford Academic
    - **Read:** [Access the study](https://academic.oup.com/bib/article/23/3/bbac134/6576451), [Github](https://github.com/hehh77/3DGT-DDI)
 
+12. **Multi-type feature fusion based on graph neural network for drug-drug interaction prediction**
+   - **By:** He, C. et al., 2022
+   - **Journal:** BMC Bioinformatics - Springer
+   - **Read:** [Access the study](https://link.springer.com/article/10.1186/s12859-022-04763-2), [Github](https://github.com/kaola111/mff)
+
 
 
